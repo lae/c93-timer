@@ -1,4 +1,4 @@
-utc: "2017-12-29 10:00:00 +0900" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
+utc: "2017-12-29T01:00:00" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
 name: "コミケ93" #Required. The human-readable name of the event
 logo: logo.gif #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
 description: "Countdown until Comiket 93." #Required. short description of the event. this is used in the preview when the link is shared on facebook
